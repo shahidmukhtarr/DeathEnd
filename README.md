@@ -1,6 +1,6 @@
 # _deathend
 
-A new Flutter project.
+Simple Counter App.
 
 ## Getting Started
 
